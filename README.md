@@ -25,3 +25,8 @@
 
 ## 구현 기능
 - REST 기능(Get, Post, Put, Delete)
+
+## 프로젝트 진행
+1. https://catchknowledge.tistory.com/156
+2. https://catchknowledge.tistory.com/157?category=857549
+3. https://catchknowledge.tistory.com/159?category=857549
