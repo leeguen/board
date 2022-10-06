@@ -15,10 +15,7 @@
 - Spring Web
 - Lombok
 - MySQL Driver
-
-## 기술 스택
-- Back-End : SpringBoot, Mybatis
-- DB : MySQL
+- MyBatis
 
 ## DB 스키마
 - link : https://catchknowledge.tistory.com/157
