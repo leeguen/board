@@ -22,6 +22,3 @@
 
 ## 구현 기능
 - REST 기능(Get, Post, Put, Delete)
-
-## 프로젝트 진행
-[REST를 이용한 간단한 게시판(1) - 프로젝트 생성](https://catchknowledge.tistory.com/156)
